@@ -158,6 +158,16 @@
                   <type>config</type>
                 </artifact>
                 <artifact>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_pipes</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_pipes.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_rewriter</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_rewriter.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
                   <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_scripting</classifier>
                   <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_scripting.config</file>
                   <type>config</type>
@@ -215,6 +225,16 @@
                 <artifact>
                   <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-jcr_resource</classifier>
                   <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-jcr_resource.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-pipes</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-pipes.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-rewriter</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-rewriter.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
