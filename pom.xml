@@ -138,6 +138,11 @@
                   <type>config</type>
                 </artifact>
                 <artifact>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_clam</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_clam.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
                   <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_discovery</classifier>
                   <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_discovery.config</file>
                   <type>config</type>
@@ -195,6 +200,11 @@
                 <artifact>
                   <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-caconfig</classifier>
                   <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-caconfig.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-clam</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-clam.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
