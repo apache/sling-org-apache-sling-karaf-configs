@@ -253,8 +253,8 @@
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-scripting_sightly</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-scripting_sightly.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-scripting_htl</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-scripting_htl.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
