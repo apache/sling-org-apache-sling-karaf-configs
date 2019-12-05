@@ -118,8 +118,8 @@
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-composum</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-composum.config</file>
+                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-composum_nodes</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-composum_nodes.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
