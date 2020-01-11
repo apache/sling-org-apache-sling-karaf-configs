@@ -178,21 +178,6 @@
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.nosql.couchbase.client.CouchbaseClient.factory.config-default</classifier>
-                  <file>src/main/resources/org.apache.sling.nosql.couchbase.client.CouchbaseClient.factory.config-default.config</file>
-                  <type>config</type>
-                </artifact>
-                <artifact>
-                  <classifier>org.apache.sling.nosql.couchbase.resourceprovider.CouchbaseNoSqlResourceProviderFactory.factory.config-default</classifier>
-                  <file>src/main/resources/org.apache.sling.nosql.couchbase.resourceprovider.CouchbaseNoSqlResourceProviderFactory.factory.config-default.config</file>
-                  <type>config</type>
-                </artifact>
-                <artifact>
-                  <classifier>org.apache.sling.nosql.mongodb.resourceprovider.MongoDBNoSqlResourceProviderFactory.factory.config-default</classifier>
-                  <file>src/main/resources/org.apache.sling.nosql.mongodb.resourceprovider.MongoDBNoSqlResourceProviderFactory.factory.config-default.config</file>
-                  <type>config</type>
-                </artifact>
-                <artifact>
                   <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-event</classifier>
                   <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-event.config</file>
                   <type>config</type>
