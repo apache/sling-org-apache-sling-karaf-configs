@@ -163,6 +163,16 @@
                   <type>config</type>
                 </artifact>
                 <artifact>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_mapping</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_mapping.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_readall</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_readall.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
                   <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_scripting</classifier>
                   <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_scripting.config</file>
                   <type>config</type>
