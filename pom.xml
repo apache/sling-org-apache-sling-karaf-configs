@@ -123,8 +123,13 @@
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling.config</file>
+                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling_discovery</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling_discovery.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
+                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling_jcr</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling_jcr.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
