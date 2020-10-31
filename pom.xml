@@ -63,18 +63,18 @@
             <configuration>
               <artifacts>
                 <artifact>
-                  <classifier>org.apache.felix.jaas.Configuration.factory-GuestLoginModule</classifier>
-                  <file>src/main/resources/org.apache.felix.jaas.Configuration.factory-GuestLoginModule.config</file>
+                  <classifier>org.apache.felix.jaas.Configuration.factory~GuestLoginModule</classifier>
+                  <file>src/main/resources/org.apache.felix.jaas.Configuration.factory~GuestLoginModule.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.felix.jaas.Configuration.factory-LoginModuleImpl</classifier>
-                  <file>src/main/resources/org.apache.felix.jaas.Configuration.factory-LoginModuleImpl.config</file>
+                  <classifier>org.apache.felix.jaas.Configuration.factory~LoginModuleImpl</classifier>
+                  <file>src/main/resources/org.apache.felix.jaas.Configuration.factory~LoginModuleImpl.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.felix.jaas.Configuration.factory-TokenLoginModule</classifier>
-                  <file>src/main/resources/org.apache.felix.jaas.Configuration.factory-TokenLoginModule.config</file>
+                  <classifier>org.apache.felix.jaas.Configuration.factory~TokenLoginModule</classifier>
+                  <file>src/main/resources/org.apache.felix.jaas.Configuration.factory~TokenLoginModule.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
@@ -118,158 +118,158 @@
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-composum_nodes</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-composum_nodes.config</file>
+                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment~composum_nodes</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment~composum_nodes.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling_discovery</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling_discovery.config</file>
+                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment~sling_discovery</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment~sling_discovery.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling_jcr</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment-sling_jcr.config</file>
+                  <classifier>org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment~sling_jcr</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.base.internal.LoginAdminWhitelist.fragment~sling_jcr.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_caconfig</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_caconfig.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_caconfig</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_caconfig.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_clam</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_clam.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_clam</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_clam.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_discovery</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_discovery.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_discovery</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_discovery.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_event</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_event.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_event</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_event.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_i18n</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_i18n.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_i18n</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_i18n.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_installer_jcr</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_installer_jcr.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_installer_jcr</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_installer_jcr.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_mapping</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_mapping.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_mapping</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_mapping.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_readall</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_readall.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_readall</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_readall.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_scripting</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_scripting.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_scripting</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_scripting.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_validation</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_validation.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_validation</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_validation.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_xss</classifier>
-                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer-sling_xss.config</file>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_xss</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_xss.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_event</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_event.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_event</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_event.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_caconfig</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_caconfig.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_caconfig</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_caconfig.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_clam</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_clam.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_clam</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_clam.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_discovery</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_discovery.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_discovery</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_discovery.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_i18n</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_i18n.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_i18n</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_i18n.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_installer_jcr</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_installer_jcr.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_installer_jcr</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_installer_jcr.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_jcr_resource</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_jcr_resource.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_jcr_resource</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_jcr_resource.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_resource_presence</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_resource_presence.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_resource_presence</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_resource_presence.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_resourceresolver</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_resourceresolver.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_resourceresolver</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_resourceresolver.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_servlets</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_servlets.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_servlets</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_servlets.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_rewriter</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_rewriter.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_rewriter</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_rewriter.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_scripting</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_scripting.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_scripting</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_scripting.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_scripting_htl</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_scripting_htl.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_scripting_htl</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_scripting_htl.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_scripting_thymeleaf</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_scripting_thymeleaf.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_scripting_thymeleaf</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_scripting_thymeleaf.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_validation</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_validation.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_validation</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_validation.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
-                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_xss</classifier>
-                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended-sling_xss.config</file>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_xss</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_xss.config</file>
                   <type>config</type>
                 </artifact>
               </artifacts>
