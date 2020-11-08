@@ -168,6 +168,11 @@
                   <type>config</type>
                 </artifact>
                 <artifact>
+                  <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_jcr_contentloader</classifier>
+                  <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_jcr_contentloader.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
                   <classifier>org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_mapping</classifier>
                   <file>src/main/resources/org.apache.sling.jcr.repoinit.RepositoryInitializer~sling_mapping.config</file>
                   <type>config</type>
@@ -220,6 +225,11 @@
                 <artifact>
                   <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_installer_jcr</classifier>
                   <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_installer_jcr.config</file>
+                  <type>config</type>
+                </artifact>
+                <artifact>
+                  <classifier>org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_jcr_contentloader</classifier>
+                  <file>src/main/resources/org.apache.sling.serviceusermapping.impl.ServiceUserMapperImpl.amended~sling_jcr_contentloader.config</file>
                   <type>config</type>
                 </artifact>
                 <artifact>
