@@ -1,0 +1,9 @@
+create service user sling-xss
+
+create path (sling:Folder) /apps/sling/xss
+create path (sling:Folder) /libs/sling/xss
+
+set ACL for sling-xss
+  allow   jcr:read    on /apps/sling/xss
+  allow   jcr:read    on /libs/sling/xss
+end

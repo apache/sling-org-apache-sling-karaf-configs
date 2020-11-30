@@ -1,0 +1,5 @@
+create service user sling-i18n
+
+set ACL for sling-i18n
+    allow   jcr:read    on /
+end

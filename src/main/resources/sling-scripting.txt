@@ -1,0 +1,9 @@
+create service user sling-scripting
+
+create path (sling:Folder) /apps
+create path (sling:Folder) /libs
+
+set ACL for sling-scripting
+  allow   jcr:read    on /apps
+  allow   jcr:read    on /libs
+end
