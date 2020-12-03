@@ -1,0 +1,5 @@
+create service user sling-jcr-jackrabbit-usermanager with path system/sling
+
+set principal ACL for sling-jcr-jackrabbit-usermanager
+  allow jcr:read,jcr:readAccessControl,jcr:modifyAccessControl,rep:write,rep:userManagement on /home
+end
