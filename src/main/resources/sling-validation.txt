@@ -1,9 +1,6 @@
-create service user sling-validation
+create service user sling-validation with path system/sling
 
-create path (sling:Folder) /apps
-create path (sling:Folder) /libs
-
-set ACL for sling-validation
+set principal ACL for sling-validation
   allow   jcr:read    on /apps
   allow   jcr:read    on /libs
 end

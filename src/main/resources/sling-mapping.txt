@@ -1,5 +1,5 @@
-create service user sling-mapping
+create service user sling-mapping with path system/sling
 
-set ACL for sling-mapping
+set principal ACL for sling-mapping
   allow   jcr:read    on /
 end

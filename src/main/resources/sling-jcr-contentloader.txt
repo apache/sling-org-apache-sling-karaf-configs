@@ -1,5 +1,5 @@
-create service user sling-jcr-contentloader
+create service user sling-jcr-contentloader with path system/sling
 
-set ACL for sling-jcr-contentloader
+set principal ACL for sling-jcr-contentloader
   allow   jcr:all    on /
 end

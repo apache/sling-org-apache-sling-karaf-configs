@@ -1,8 +1,8 @@
-create service user sling-clam
+create service user sling-clam with path system/sling
 
 create path (sling:Folder) /var/clam/results(sling:OrderedFolder)
 
-set ACL for sling-clam
+set principal ACL for sling-clam
   allow     jcr:read    on /
   allow     rep:write   on /var/clam
 end

@@ -1,8 +1,8 @@
-create service user sling-installer-jcr
+create service user sling-installer-jcr with path system/sling
 
 create path (sling:Folder) /apps/sling/install
 
-set ACL for sling-installer-jcr
+set principal ACL for sling-installer-jcr
     allow   jcr:read    on /
     allow   rep:write   on /apps/sling/install
 end

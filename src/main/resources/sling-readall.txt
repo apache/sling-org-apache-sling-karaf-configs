@@ -1,5 +1,5 @@
-create service user sling-readall
+create service user sling-readall with path system/sling
 
-set ACL for sling-readall
+set principal ACL for sling-readall
   allow   jcr:read    on /
 end

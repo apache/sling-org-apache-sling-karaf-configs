@@ -1,5 +1,5 @@
-create service user sling-i18n
+create service user sling-i18n with path system/sling
 
-set ACL for sling-i18n
+set principal ACL for sling-i18n
     allow   jcr:read    on /
 end
