@@ -1,0 +1,6 @@
+create service user sling-installer-factory-packages with path system/sling
+
+set principal ACL for sling-installer-factory-packages
+    allow   jcr:all     on    /
+    allow   jcr:namespaceManagement,jcr:nodeTypeDefinitionManagement on :repository
+end
