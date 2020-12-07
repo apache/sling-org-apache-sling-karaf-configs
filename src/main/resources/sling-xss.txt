@@ -1,9 +1,9 @@
 create service user sling-xss with path system/sling
 
-create path (sling:Folder) /apps/sling/xss
-create path (sling:Folder) /libs/sling/xss
-
 set principal ACL for sling-xss
   allow   jcr:read    on /apps/sling/xss
   allow   jcr:read    on /libs/sling/xss
 end
+
+create path (sling:Folder) /apps/sling/xss
+create path (sling:Folder) /libs/sling/xss
