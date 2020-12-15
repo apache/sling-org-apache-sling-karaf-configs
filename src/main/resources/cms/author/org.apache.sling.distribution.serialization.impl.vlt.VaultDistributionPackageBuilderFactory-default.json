@@ -1,0 +1,25 @@
+fileThreshold=I"1"
+cleanupDelay=I"60"
+autoSaveThreshold=I"-1"
+package.roots=""
+type="jcrvlt"
+MEGA_BYTES="MEGA_BYTES"
+property.filters=[\
+  ""\
+]
+pathsMapping=[\
+  ""\
+]
+strictImport=B"true"
+aclHandling=""
+importMode="REPLACE"
+digestAlgorithm="NONE"
+tempFsFolder=""
+monitoringQueueSize=I"0"
+useOffHeapMemory=B"false"
+cugHandling=""
+useBinaryReferences=B"false"
+package.filters=[\
+  ""\
+]
+name="default"
