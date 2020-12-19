@@ -1,0 +1,4 @@
+{
+  "pathPattern": "\\/conf\\/[\\w\\d\\-_]+",
+  "editor": "/cms/config/buckets.html"
+}

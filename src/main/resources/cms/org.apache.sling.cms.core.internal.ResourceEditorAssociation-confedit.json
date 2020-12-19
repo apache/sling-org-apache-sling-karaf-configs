@@ -1,0 +1,4 @@
+{
+  "pathPattern": "\\/conf\\/[\\w\\d\\-_]+\\/[\\w\\d\\-_]+\\/.+",
+  "editor": "/cms/config/edit.html"
+}
