@@ -1,0 +1,6 @@
+{
+  "user.mapping": [
+    "org.apache.sling.cms.core:sling-cms-ugc=sling-cms-ugc",
+    "org.apache.sling.cms.reference:sling-cms-ugc=sling-cms-ugc"
+  ]
+}

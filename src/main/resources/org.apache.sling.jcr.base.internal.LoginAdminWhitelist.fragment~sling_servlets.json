@@ -1,0 +1,6 @@
+{
+  "whitelist.name": "sling-servlets",
+  "whitelist.bundles": [
+    "org.apache.sling.servlets.post"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "whitelist.name": "composum-nodes",
+  "whitelist.bundles": [
+    "com.composum.nodes.commons",
+    "com.composum.nodes.pckgmgr",
+    "com.composum.nodes.usermgr"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "sling.auth.requirements": [
+    "/bin",
+    "/cms",
+    "/libs",
+    "/apps",
+    "/etc",
+    "/home",
+    "/var"
+  ]
+}

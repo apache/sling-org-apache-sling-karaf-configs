@@ -1,0 +1,4 @@
+{
+  "packageBuilder.target": "(name=default)",
+  "name": "default"
+}

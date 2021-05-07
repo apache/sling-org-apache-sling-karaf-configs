@@ -1,0 +1,5 @@
+{
+  "user.mapping": [
+    "org.apache.sling.jcr.contentloader=[sling-jcr-contentloader]"
+  ]
+}

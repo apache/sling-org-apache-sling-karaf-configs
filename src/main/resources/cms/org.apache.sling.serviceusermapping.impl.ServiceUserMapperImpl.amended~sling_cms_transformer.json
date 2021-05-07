@@ -1,0 +1,5 @@
+{
+  "user.mapping": [
+    "org.apache.sling.cms.transformer:sling-cms-transformer=sling-cms-transformer"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mappedAttributes": [
+    "action",
+    "href",
+    "src"
+  ],
+  "enabledPaths": [
+    "/content"
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "pathPattern": "\\/static.*",
+  "editor": "/cms/static/content.html"
+}

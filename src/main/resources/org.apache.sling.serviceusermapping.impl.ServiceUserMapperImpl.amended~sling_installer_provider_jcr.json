@@ -1,0 +1,5 @@
+{
+  "user.mapping": [
+    "org.apache.sling.installer.provider.jcr=[sling-installer-provider-jcr]"
+  ]
+}

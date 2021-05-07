@@ -1,0 +1,5 @@
+{
+  "mongouri": "mongodb://localhost:27017",
+  "db": "sling",
+  "repository.home": "sling/repository"
+}

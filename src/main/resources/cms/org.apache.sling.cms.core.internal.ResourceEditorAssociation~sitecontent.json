@@ -1,0 +1,5 @@
+{
+  "pathPattern": "\\/content.*",
+  "editor": "/cms/site/content.html",
+  "parentType": "sling:Site"
+}

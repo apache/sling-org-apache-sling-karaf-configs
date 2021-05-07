@@ -1,0 +1,4 @@
+{
+  "pathPattern": "\\/etc\\/taxonomy.*",
+  "editor": "/cms/taxonomy/list.html"
+}

@@ -1,0 +1,6 @@
+{
+  "whitelist.bundles:String[]": [
+    "org.apache.sling.serviceuser.webconsole"
+  ],
+  "whitelist.name": "org.apache.sling.serviceuser.webconsole"
+}

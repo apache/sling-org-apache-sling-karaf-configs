@@ -1,0 +1,4 @@
+{
+  "jaas.defaultRealmName": "jackrabbit.oak",
+  "jaas.configProviderName": "FelixJaasProvider"
+}

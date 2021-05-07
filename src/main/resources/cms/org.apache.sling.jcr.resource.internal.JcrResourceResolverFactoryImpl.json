@@ -1,0 +1,43 @@
+{
+  "resource.resolver.required.providernames": [
+    "JCR"
+  ],
+  "resource.resolver.manglenamespaces": true,
+  "resource.resolver.optimize.alias.resolution": true,
+  "resource.resolver.vanitypath.blacklist": [
+    ""
+  ],
+  "resource.resolver.vanity.precedence": false,
+  "resource.resolver.vanitypath.maxEntries": -1,
+  "resource.resolver.required.providers": [
+    ""
+  ],
+  "resource.resolver.enable.vanitypath": true,
+  "resource.resolver.providerhandling.paranoid": false,
+  "resource.resolver.allowDirect": true,
+  "resource.resolver.mapping": [
+    "/:/",
+    "/content/:/",
+    "/system/docroot/:/",
+    "/mnt/overlay/sling-cms/content:/cms"
+  ],
+  "resource.resolver.vanitypath.whitelist": [
+    ""
+  ],
+  "resource.resolver.map.location": "/etc/map",
+  "resource.resolver.vanitypath.maxEntries.startup": true,
+  "resource.resolver.map.observation": [
+    "/"
+  ],
+  "resource.resolver.default.vanity.redirect.status": 302,
+  "resource.resolver.vanitypath.bloomfilter.maxBytes": 1024000,
+  "resource.resolver.searchpath": [
+    "/apps",
+    "/libs"
+  ],
+  "resource.resolver.log.unclosed": true,
+  "resource.resolver.log.closing": false,
+  "resource.resolver.virtual": [
+    "/:/"
+  ]
+}

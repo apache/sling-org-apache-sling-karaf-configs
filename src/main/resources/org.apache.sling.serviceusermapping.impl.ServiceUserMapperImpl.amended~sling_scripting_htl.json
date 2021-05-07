@@ -1,0 +1,5 @@
+{
+  "user.mapping": [
+    "org.apache.sling.scripting.sightly.js.provider=[sling-scripting]"
+  ]
+}

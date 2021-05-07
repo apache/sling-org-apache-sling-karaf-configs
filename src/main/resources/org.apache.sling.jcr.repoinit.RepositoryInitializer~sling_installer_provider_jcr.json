@@ -1,0 +1,5 @@
+{
+  "references": [
+    "classpath:sling-installer-provider-jcr.txt"
+  ]
+}

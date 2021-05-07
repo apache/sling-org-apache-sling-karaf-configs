@@ -1,0 +1,5 @@
+{
+  "user.mapping": [
+    "org.apache.sling.scripting.thymeleaf=[sling-scripting]"
+  ]
+}

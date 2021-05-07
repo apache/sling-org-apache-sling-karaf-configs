@@ -1,0 +1,6 @@
+{
+  "groupsPath": "/home/groups",
+  "usersPath": "/home/users",
+  "defaultDepth": 1,
+  "importBehavior": "besteffort"
+}

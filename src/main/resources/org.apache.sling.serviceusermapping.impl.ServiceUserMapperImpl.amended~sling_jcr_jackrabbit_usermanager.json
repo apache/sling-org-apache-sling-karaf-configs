@@ -1,0 +1,5 @@
+{
+  "user.mapping": [
+    "org.apache.sling.jcr.jackrabbit.usermanager=[sling-jcr-jackrabbit-usermanager]"
+  ]
+}

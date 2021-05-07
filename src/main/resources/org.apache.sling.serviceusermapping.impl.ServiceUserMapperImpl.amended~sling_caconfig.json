@@ -1,0 +1,5 @@
+{
+  "user.mapping:String[]": [
+    "org.apache.sling.caconfig.impl=[sling-readall]"
+  ]
+}
