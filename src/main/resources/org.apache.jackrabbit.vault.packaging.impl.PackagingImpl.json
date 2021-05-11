@@ -1,0 +1,11 @@
+{
+  "authIdsForRootInstallation": [
+    "sling-installer-factory-packages"
+  ],
+  "packageRoots": [
+    "/etc/packages"
+  ],
+  "authIdsForHookExecution": [
+    "sling-installer-factory-packages"
+  ]
+}
