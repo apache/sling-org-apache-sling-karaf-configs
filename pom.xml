@@ -34,6 +34,10 @@
   <name>Apache Sling - Karaf Configs</name>
   <description>Apache Sling configurations for provisioning with Apache Karaf</description>
 
+  <properties>
+    <project.build.outputTimestamp>1970-01-01T00:00:00Z</project.build.outputTimestamp>
+  </properties>
+
   <scm>
     <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-karaf-configs.git</connection>
     <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-karaf-configs.git</developerConnection>
