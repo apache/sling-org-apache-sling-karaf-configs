@@ -1,8 +1,0 @@
-{
-  "hostDomains": [],
-  "allowedPatterns": [
-    "^\/content\/starter/.*$",
-    "^\/static/.*$",
-    "^\/system\/sling\/form\/login$"
-  ]
-}
