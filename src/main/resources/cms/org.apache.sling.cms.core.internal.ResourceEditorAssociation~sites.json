@@ -1,6 +1,0 @@
-{
-  "pathPattern": "\\/content.*",
-  "editor": "/cms/site/sites.html",
-  "resourceType": "sling:OrderedFolder",
-  "service.ranking": 1
-}

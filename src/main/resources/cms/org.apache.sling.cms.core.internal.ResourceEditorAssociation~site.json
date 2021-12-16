@@ -1,5 +1,0 @@
-{
-  "pathPattern": "\\/content.*",
-  "editor": "/cms/site/content.html",
-  "resourceType": "sling:Site"
-}
