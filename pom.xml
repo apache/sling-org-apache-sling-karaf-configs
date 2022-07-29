@@ -51,7 +51,6 @@
         <artifactId>apache-rat-plugin</artifactId>
         <configuration>
           <excludes combine.children="append">
-            <exclude>**/*.config</exclude>
             <exclude>**/*.txt</exclude>
           </excludes>
         </configuration>
