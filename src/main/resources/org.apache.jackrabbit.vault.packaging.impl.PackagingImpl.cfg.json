@@ -3,7 +3,7 @@
     "sling-installer-factory-packages"
   ],
   "packageRoots": [
-    "/etc/packages"
+    "/var/packages"
   ],
   "authIdsForHookExecution": [
     "sling-installer-factory-packages"
