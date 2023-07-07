@@ -1,1 +1,0 @@
-create path (sling:Folder) /libs/sling/permissions(sling:OrderedFolder)

@@ -1,6 +1,0 @@
-{
-  "whitelist.name": "sling-commons-permissions-sling",
-  "whitelist.bundles": [
-    "org.apache.sling.commons.permissions.sling"
-  ]
-}
